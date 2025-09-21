@@ -1,0 +1,17 @@
+:root {
+  --spice-text: #ffffff;
+  --spice-subtext: #aaaaaa;
+  --spice-extratext: #aaaaaa;
+  --spice-background: #1e2226;
+  --spice-player: #282e33;
+  --spice-button: #0573ff;
+  --spice-button-active: #0573ff;
+  --spice-button-disabled: #282e33;
+  --spice-sidebar: #1e2226;
+  --spice-main: #1e2226;
+  --spice-card: #282e33;
+}
+
+* {
+  font-family: Arial;
+}
